@@ -1,6 +1,6 @@
 # OledAnimator
 
-A lightweight, non-blocking animation engine for SSD1306 OLED displays on Arduino Nano, Uno and ESP32.
+Create smooth, multi-layered OLED animations on Arduino — without delay(), without lag, and without wasting RAM.
 
 OledAnimator lets you run several frame-based animations at once without ever calling `delay()`. Animations are plain function pointers, so adding your own takes three lines of code.
 
