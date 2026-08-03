@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map for OledAnimator
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OledAnimator	KEYWORD1
+AnimationCallback	KEYWORD1
+AnimationSlot	KEYWORD1
+ScrollText	KEYWORD1
+Bounce	KEYWORD1
+Fade	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+clear	KEYWORD2
+addAnimation	KEYWORD2
+stopAnimation	KEYWORD2
+stopAll	KEYWORD2
+activeCount	KEYWORD2
+setFPS	KEYWORD2
+display	KEYWORD2
+setText	KEYWORD2
+setTextSize	KEYWORD2
+setY	KEYWORD2
+setSpeed	KEYWORD2
+setSize	KEYWORD2
+setFilled	KEYWORD2
+setArea	KEYWORD2
+setCycleFrames	KEYWORD2
+run	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OLED_ANIM_MAX_ANIMATIONS	LITERAL1
+OLED_ANIM_DEFAULT_FPS	LITERAL1
+SCROLLTEXT_MAX_LEN	LITERAL1
