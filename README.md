@@ -104,6 +104,10 @@ void anim(Adafruit_SSD1306 *display, uint32_t frame);
 - `examples/BasicAnimation/BasicAnimation.ino` — bouncing box plus a fading panel
 - `examples/TextScroll/TextScroll.ino` — scrolling text plus a custom progress bar
 
+
+## overview
+<img width="1280" height="720" alt="WIN_20260804_18_03_37_Pro" src="https://github.com/user-attachments/assets/cf9812c0-21a5-47f9-a5fa-68c8eda599d3" />
+
 ## Why it's lightweight
 
 - **No heap usage.** Animation slots live in a fixed-size array inside the object, so there is no fragmentation and RAM usage is known at compile time (~60 bytes for 5 slots).
